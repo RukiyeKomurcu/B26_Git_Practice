@@ -8,4 +8,6 @@ public class Hat {
 
     // Betul sen harikasin
 
+    // Erdi karalam tahtayi
+
 }
