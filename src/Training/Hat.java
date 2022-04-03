@@ -6,4 +6,6 @@ public class Hat {
 
     // fadime sana hayranim
 
+    // Betul sen harikasin
+
 }
