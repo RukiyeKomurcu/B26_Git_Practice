@@ -6,4 +6,6 @@ public class Food {
 
     //I love Java
 
+    // I was fasting today
+
 }
