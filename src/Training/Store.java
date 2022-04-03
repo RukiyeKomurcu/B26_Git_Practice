@@ -6,6 +6,8 @@ public class Store {
 
     // bitirelim artik konuyu
 
+    //  commit ve push yapmak istiyorum
+
 
 
 
